@@ -47,6 +47,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado em celular em arquivo de áudio
 - MS Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- MS Copilot para os prompt de criação de gráficos em barra e tipo radar com os dados da planilha Excel
 
 ## 📚 Materiais
 
